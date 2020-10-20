@@ -1,2 +1,4 @@
-I have edited this file
+I have edited this
 Changes done from my local machine.
+
+This is the confilict example
