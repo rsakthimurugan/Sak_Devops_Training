@@ -1,1 +1,3 @@
 I have edited this file
+
+This is the confilict example
